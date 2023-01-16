@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__
+glm/runs/
+glm/results.json
+glm/logs/
+data_scripts/
+logs/
+scripts/
+tasks/
+running.log
+manager.py
+PATH.sh

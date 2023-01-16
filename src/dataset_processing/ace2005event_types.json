@@ -1,0 +1,529 @@
+{
+    "entities": {
+        "VEH:Underspecified": {
+            "short": "VEH:Underspecified",
+            "verbose": "underspecified vehicle"
+        },
+        "Justice:Execute": {
+            "short": "Justice:Execute",
+            "verbose": "execute"
+        },
+        "Life:Die": {
+            "short": "Life:Die",
+            "verbose": "die"
+        },
+        "Business:Merge-Org": {
+            "short": "Business:Merge-Org",
+            "verbose": "merge organization"
+        },
+        "Conflict:Attack": {
+            "short": "Conflict:Attack",
+            "verbose": "attack"
+        },
+        "Justice:Arrest-Jail": {
+            "short": "Justice:Arrest-Jail",
+            "verbose": "arrest jail"
+        },
+        "Numeric:Money": {
+            "short": "Numeric:Money",
+            "verbose": "money"
+        },
+        "Personnel:Start-Position": {
+            "short": "Personnel:Start-Position",
+            "verbose": "start position"
+        },
+        "VEH:Air": {
+            "short": "VEH:Air",
+            "verbose": "air vehicle"
+        },
+        "ORG:Religious": {
+            "short": "ORG:Religious",
+            "verbose": "religious organization"
+        },
+        "Personnel:End-Position": {
+            "short": "Personnel:End-Position",
+            "verbose": "end position"
+        },
+        "VEH:Water": {
+            "short": "VEH:Water",
+            "verbose": "water vehicle"
+        },
+        "Justice:Appeal": {
+            "short": "Justice:Appeal",
+            "verbose": "appeal"
+        },
+        "Transaction:Transfer-Money": {
+            "short": "Transaction:Transfer-Money",
+            "verbose": "transfer money"
+        },
+        "WEA:Exploding": {
+            "short": "WEA:Exploding",
+            "verbose": "exploding weapon"
+        },
+        "WEA:Shooting": {
+            "short": "WEA:Shooting",
+            "verbose": "shooting weapon"
+        },
+        "Contact:Meet": {
+            "short": "Contact:Meet",
+            "verbose": "meet"
+        },
+        "WEA:Projectile": {
+            "short": "WEA:Projectile",
+            "verbose": "projectile weapon"
+        },
+        "WEA:Sharp": {
+            "short": "WEA:Sharp",
+            "verbose": "sharp weapon"
+        },
+        "ORG:Non-Governmental": {
+            "short": "ORG:Non-Governmental",
+            "verbose": "non governmental organization"
+        },
+        "Numeric:Percent": {
+            "short": "Numeric:Percent",
+            "verbose": "percent"
+        },
+        "ORG:Educational": {
+            "short": "ORG:Educational",
+            "verbose": "educational organization"
+        },
+        "FAC:Building-Grounds": {
+            "short": "FAC:Building-Grounds",
+            "verbose": "building grounds"
+        },
+        "WEA:Chemical": {
+            "short": "WEA:Chemical",
+            "verbose": "chemical weapon"
+        },
+        "Transaction:Transfer-Ownership": {
+            "short": "Transaction:Transfer-Ownership",
+            "verbose": "transfer ownership"
+        },
+        "LOC:Region-General": {
+            "short": "LOC:Region-General",
+            "verbose": "region general location"
+        },
+        "Business:End-Org": {
+            "short": "Business:End-Org",
+            "verbose": "end organization"
+        },
+        "Personnel:Elect": {
+            "short": "Personnel:Elect",
+            "verbose": "elect"
+        },
+        "FAC:Path": {
+            "short": "FAC:Path",
+            "verbose": "path"
+        },
+        "Justice:Trial-Hearing": {
+            "short": "Justice:Trial-Hearing",
+            "verbose": "trial hearing"
+        },
+        "Conflict:Demonstrate": {
+            "short": "Conflict:Demonstrate",
+            "verbose": "demonstrate"
+        },
+        "WEA:Underspecified": {
+            "short": "WEA:Underspecified",
+            "verbose": "underspecified weapon"
+        },
+        "Contact-Info:URL": {
+            "short": "Contact-Info:URL",
+            "verbose": "url"
+        },
+        "PER:Individual": {
+            "short": "PER:Individual",
+            "verbose": "individual"
+        },
+        "Justice:Acquit": {
+            "short": "Justice:Acquit",
+            "verbose": "acquit"
+        },
+        "ORG:Government": {
+            "short": "ORG:Government",
+            "verbose": "government"
+        },
+        "PER:Indeterminate": {
+            "short": "PER:Indeterminate",
+            "verbose": "indeterminate"
+        },
+        "LOC:Celestial": {
+            "short": "LOC:Celestial",
+            "verbose": "celestial"
+        },
+        "Life:Be-Born": {
+            "short": "Life:Be-Born",
+            "verbose": "be born"
+        },
+        "Business:Declare-Bankruptcy": {
+            "short": "Business:Declare-Bankruptcy",
+            "verbose": "declare bankruptcy"
+        },
+        "FAC:Airport": {
+            "short": "FAC:Airport",
+            "verbose": "airport"
+        },
+        "WEA:Biological": {
+            "short": "WEA:Biological",
+            "verbose": "biological weapon"
+        },
+        "VEH:Subarea-Vehicle": {
+            "short": "VEH:Subarea-Vehicle",
+            "verbose": "subarea vehicle"
+        },
+        "LOC:Water-Body": {
+            "short": "LOC:Water-Body",
+            "verbose": "water body location"
+        },
+        "Life:Injure": {
+            "short": "Life:Injure",
+            "verbose": "injure"
+        },
+        "LOC:Land-Region-Natural": {
+            "short": "LOC:Land-Region-Natural",
+            "verbose": "land region natural"
+        },
+        "PER:Group": {
+            "short": "PER:Group",
+            "verbose": "group"
+        },
+        "Justice:Fine": {
+            "short": "Justice:Fine",
+            "verbose": "fine"
+        },
+        "Business:Start-Org": {
+            "short": "Business:Start-Org",
+            "verbose": "start organization"
+        },
+        "Justice:Sue": {
+            "short": "Justice:Sue",
+            "verbose": "sue"
+        },
+        "Personnel:Nominate": {
+            "short": "Personnel:Nominate",
+            "verbose": "nominate"
+        },
+        "FAC:Plant": {
+            "short": "FAC:Plant",
+            "verbose": "plant"
+        },
+        "ORG:Medical-Science": {
+            "short": "ORG:Medical-Science",
+            "verbose": "medical science"
+        },
+        "Justice:Release-Parole": {
+            "short": "Justice:Release-Parole",
+            "verbose": "release parole"
+        },
+        "GPE:Continent": {
+            "short": "GPE:Continent",
+            "verbose": "continent"
+        },
+        "Life:Divorce": {
+            "short": "Life:Divorce",
+            "verbose": "divorce"
+        },
+        "Justice:Convict": {
+            "short": "Justice:Convict",
+            "verbose": "convict"
+        },
+        "LOC:Address": {
+            "short": "LOC:Address",
+            "verbose": "address"
+        },
+        "ORG:Commercial": {
+            "short": "ORG:Commercial",
+            "verbose": "commercial organization"
+        },
+        "Justice:Sentence": {
+            "short": "Justice:Sentence",
+            "verbose": "sentence"
+        },
+        "ORG:Media": {
+            "short": "ORG:Media",
+            "verbose": "media"
+        },
+        "Movement:Transport": {
+            "short": "Movement:Transport",
+            "verbose": "transport"
+        },
+        "FAC:Subarea-Facility": {
+            "short": "FAC:Subarea-Facility",
+            "verbose": "subarea facility"
+        },
+        "LOC:Region-International": {
+            "short": "LOC:Region-International",
+            "verbose": "region international"
+        },
+        "Sentence": {
+            "short": "Sentence",
+            "verbose": "sentence"
+        },
+        "ORG:Entertainment": {
+            "short": "ORG:Entertainment",
+            "verbose": "entertainment organization"
+        },
+        "LOC:Boundary": {
+            "short": "LOC:Boundary",
+            "verbose": "boundary"
+        },
+        "Justice:Charge-Indict": {
+            "short": "Justice:Charge-Indict",
+            "verbose": "charge indict"
+        },
+        "Crime": {
+            "short": "Crime",
+            "verbose": "crime"
+        },
+        "WEA:Blunt": {
+            "short": "WEA:Blunt",
+            "verbose": "blunt weapon"
+        },
+        "Contact-Info:Phone-Number": {
+            "short": "Contact-Info:Phone-Number",
+            "verbose": "phone number"
+        },
+        "WEA:Nuclear": {
+            "short": "WEA:Nuclear",
+            "verbose": "nuclear weapon"
+        },
+        "ORG:Sports": {
+            "short": "ORG:Sports",
+            "verbose": "sports"
+        },
+        "Job-Title": {
+            "short": "Job-Title",
+            "verbose": "job title"
+        },
+        "GPE:Special": {
+            "short": "GPE:Special",
+            "verbose": "special location"
+        },
+        "VEH:Land": {
+            "short": "VEH:Land",
+            "verbose": "land vehicle"
+        },
+        "Contact:Phone-Write": {
+            "short": "Contact:Phone-Write",
+            "verbose": "phone write"
+        },
+        "GPE:Nation": {
+            "short": "GPE:Nation",
+            "verbose": "nation"
+        },
+        "GPE:State-or-Province": {
+            "short": "GPE:State-or-Province",
+            "verbose": "state or province"
+        },
+        "Justice:Pardon": {
+            "short": "Justice:Pardon",
+            "verbose": "pardon"
+        },
+        "GPE:GPE-Cluster": {
+            "short": "GPE:GPE-Cluster",
+            "verbose": "gpe cluster"
+        },
+        "Life:Marry": {
+            "short": "Life:Marry",
+            "verbose": "marry"
+        },
+        "TIM:time": {
+            "short": "TIM:time",
+            "verbose": "time"
+        },
+        "Contact-Info:E-Mail": {
+            "short": "Contact-Info:E-Mail",
+            "verbose": "email"
+        },
+        "GPE:County-or-District": {
+            "short": "GPE:County-or-District",
+            "verbose": "county or district"
+        },
+        "Justice:Extradite": {
+            "short": "Justice:Extradite",
+            "verbose": "extradite"
+        },
+        "GPE:Population-Center": {
+            "short": "GPE:Population-Center",
+            "verbose": "population center"
+        }
+    },
+    "relations": {
+        "Time-Before": {
+            "short": "Time-Before",
+            "verbose": "time before",
+            "symmetric": false
+        },
+        "Agent": {
+            "short": "Agent",
+            "verbose": "agent",
+            "symmetric": false
+        },
+        "Buyer": {
+            "short": "Buyer",
+            "verbose": "buyer",
+            "symmetric": false
+        },
+        "Prosecutor": {
+            "short": "Prosecutor",
+            "verbose": "prosecutor",
+            "symmetric": false
+        },
+        "Time-Within": {
+            "short": "Time-Within",
+            "verbose": "time within",
+            "symmetric": false
+        },
+        "Money": {
+            "short": "Money",
+            "verbose": "money",
+            "symmetric": false
+        },
+        "Entity": {
+            "short": "Entity",
+            "verbose": "entity",
+            "symmetric": false
+        },
+        "Person": {
+            "short": "Person",
+            "verbose": "person",
+            "symmetric": false
+        },
+        "Seller": {
+            "short": "Seller",
+            "verbose": "seller",
+            "symmetric": false
+        },
+        "Time-At-Beginning": {
+            "short": "Time-At-Beginning",
+            "verbose": "time at beginning",
+            "symmetric": false
+        },
+        "Target": {
+            "short": "Target",
+            "verbose": "target",
+            "symmetric": false
+        },
+        "Place": {
+            "short": "Place",
+            "verbose": "place",
+            "symmetric": false
+        },
+        "Artifact": {
+            "short": "Artifact",
+            "verbose": "artifact",
+            "symmetric": false
+        },
+        "Origin": {
+            "short": "Origin",
+            "verbose": "origin",
+            "symmetric": false
+        },
+        "Instrument": {
+            "short": "Instrument",
+            "verbose": "instrument",
+            "symmetric": false
+        },
+        "Beneficiary": {
+            "short": "Beneficiary",
+            "verbose": "beneficiary",
+            "symmetric": false
+        },
+        "Destination": {
+            "short": "Destination",
+            "verbose": "destination",
+            "symmetric": false
+        },
+        "Recipient": {
+            "short": "Recipient",
+            "verbose": "recipient",
+            "symmetric": false
+        },
+        "Time-Ending": {
+            "short": "Time-Ending",
+            "verbose": "time ending",
+            "symmetric": false
+        },
+        "Org": {
+            "short": "Org",
+            "verbose": "org",
+            "symmetric": false
+        },
+        "Time-At-End": {
+            "short": "Time-At-End",
+            "verbose": "time at end",
+            "symmetric": false
+        },
+        "Vehicle": {
+            "short": "Vehicle",
+            "verbose": "vehicle",
+            "symmetric": false
+        },
+        "Adjudicator": {
+            "short": "Adjudicator",
+            "verbose": "adjudicator",
+            "symmetric": false
+        },
+        "Sentence": {
+            "short": "Sentence",
+            "verbose": "sentence",
+            "symmetric": false
+        },
+        "Crime": {
+            "short": "Crime",
+            "verbose": "crime",
+            "symmetric": false
+        },
+        "Victim": {
+            "short": "Victim",
+            "verbose": "victim",
+            "symmetric": false
+        },
+        "Price": {
+            "short": "Price",
+            "verbose": "price",
+            "symmetric": false
+        },
+        "Time-Holds": {
+            "short": "Time-Holds",
+            "verbose": "time holds",
+            "symmetric": false
+        },
+        "Time-Starting": {
+            "short": "Time-Starting",
+            "verbose": "time starting",
+            "symmetric": false
+        },
+        "Position": {
+            "short": "Position",
+            "verbose": "position",
+            "symmetric": false
+        },
+        "Defendant": {
+            "short": "Defendant",
+            "verbose": "defendant",
+            "symmetric": false
+        },
+        "Giver": {
+            "short": "Giver",
+            "verbose": "giver",
+            "symmetric": false
+        },
+        "Attacker": {
+            "short": "Attacker",
+            "verbose": "attacker",
+            "symmetric": false
+        },
+        "Plaintiff": {
+            "short": "Plaintiff",
+            "verbose": "plaintiff",
+            "symmetric": false
+        },
+        "Time-After": {
+            "short": "Time-After",
+            "verbose": "time after",
+            "symmetric": false
+        }
+    }
+}

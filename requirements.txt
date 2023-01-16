@@ -1,0 +1,10 @@
+docopt
+fuzzywuzzy
+gdown
+joblib
+jsonlines
+pyheaven
+python-Levenshtein
+scikit-learn
+transformers==4.11.3
+gdown
